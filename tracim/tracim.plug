@@ -1,0 +1,9 @@
+[Core]
+Name = Tracim
+Module = tracim
+
+[Documentation]
+Description = Connect errbot to Tracim
+
+[Python]
+Version = 3
